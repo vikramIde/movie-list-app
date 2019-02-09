@@ -18,4 +18,7 @@ npm run build
 npm run build --report
 ```
 
+## Video Link
+hhttps://www.useloom.com/share/c270d6956e614f89afe1454b484025b7
+
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
